@@ -194,10 +194,10 @@ Frontend runs at **http://localhost:3000**.
 ![Dashboard](./screenshots/dashboard.png)
 
 ### Pizza Builder
-![Pizza Builder](.\screenshots\pizza-builder.png.png)
+![Pizza Builder](.\screenshots\pizza-builder.png)
 
 ### Order Summary & Razorpay Checkout
-![Order Summary](.\screenshots\order-summary.png.png)
+![Order Summary](./screenshots/order-summary.png)
 
 ### Admin — Inventory Management
 ![Admin Inventory](./screenshots/admin-inventory.png)
